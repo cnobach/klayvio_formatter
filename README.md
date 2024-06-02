@@ -8,9 +8,11 @@ Very basic Klayvio formatter in order to aid reading in csv files and reformatti
 * **To install** - [Python](https://www.python.org/downloads/release/python-3123/)
 * **Dependency Management** through pip - should be included in python install
 * Run the following commands:
-  * `python venv -m venv`
+  * `python -m venv venv`
   * `source venv/Scripts/activate`
   * `pip install -r requirements.txt`
+* **Copy & Paste version**: 
+  * `python -m venv venv && source venv/Scripts/activate && pip install -r requirements.txt`
 
 ## Running the Application
 
@@ -21,4 +23,4 @@ Very basic Klayvio formatter in order to aid reading in csv files and reformatti
 ## Deactivating Venv
 
 * Run the following command:
-  * `deactivate`
+  * `source deactivate`
