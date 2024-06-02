@@ -14,12 +14,9 @@ Very basic Klayvio formatter in order to aid reading in csv files and reformatti
 
 ## Running the Application
 
-* Create folders called 'input_files' & 'output_files' in the project directory
-* Save your files in need of processing into the 'input_files' folder
-  * If you have already done this - delete the existing files in both the 'input_files' and 'output_files' folders
 * In the terminal, run the following command:
   * `python main.py`
-* The new files will now be saved in the 'output_files' directory
+* The new files will be processed and saved in the *output_files* folder in the project directory.
 
 ## Deactivating Venv
 
