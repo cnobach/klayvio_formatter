@@ -1,4 +1,6 @@
-# Klayvio Formatter for Zoni Work
+# Klayvio Formatter Helper
+
+Very basic Klayvio formatter in order to aid reading in csv files and reformatting the phone number column to the specifications. 
 
 ## Requirements
 
